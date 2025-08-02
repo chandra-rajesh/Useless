@@ -47,11 +47,8 @@ Code in Thonny IDE, and Pico diagram for reference
 ![WhatsApp Image 2025-08-02 at 06 01 47_40d2b567](https://github.com/user-attachments/assets/237c6329-3f27-490b-a865-8ddbc7e2e599)
  * A handwritten diagram of the work-flow of my project*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+!<img width="421" height="221" alt="DIAGRAM" src="https://github.com/user-attachments/assets/12b7ca28-071e-415e-b633-1a04742bc450" />
+*tiny diagram just the major components*
 
 # Build Photos
 ![WhatsApp Image 2025-08-02 at 06 07 17_f40e21d0](https://github.com/user-attachments/assets/8d4c92e3-c2ed-49b2-a39a-d71f46c8756e)
